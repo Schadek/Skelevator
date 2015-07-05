@@ -6,5 +6,5 @@ How to open the project:
 2. Close Unity and open the project's directory
 3. Copy and paste the git files into the new project
 4. Overwrite already existing files
-5. Open the new project
+5. Open the new project (This may take a while)
 6. Done!
