@@ -7,4 +7,4 @@ How to open the project:
 3. Copy and paste the git files into the new project
 4. Overwrite already existing files
 5. Open the new project (This may take a while)
-6. Done!
+6. You're done!
