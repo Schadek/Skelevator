@@ -1,0 +1,1054 @@
+fileFormatVersion: 2
+guid: ada37c3ac26629847856ec1021ab8f13
+timeCreated: 1434634292
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: boneshuefte1
+    100002: boneskopf
+    100004: chestthirdtry2
+    100006: fuss1
+    100008: fuss2
+    100010: //RootNode
+    100012: jt_beinansatzLinks
+    100014: jt_beinansatzRechts
+    100016: jt_brustkorb
+    100018: jt_ellbogenLinks
+    100020: jt_ellbogenRechts
+    100022: jt_hals
+    100024: jt_handgelenkLinks
+    100026: jt_handgelenkRechts
+    100028: jt_huefteOben
+    100030: jt_huefteUnten
+    100032: jt_knieLinks
+    100034: jt_knieRechts
+    100036: jt_knoechelLinks
+    100038: jt_knoechelRechts
+    100040: jt_kopfOben
+    100042: jt_kopfUnten
+    100044: jt_oberarmLinks
+    100046: jt_oberarmRechts
+    100048: jt_oberschenkelLinks
+    100050: jt_oberschenkelRechts
+    100052: jt_schulterLinks
+    100054: jt_schulterRechts
+    100056: jt_wirbelsaeule
+    100058: jt_zehenLinks
+    100060: jt_zehenRechts
+    100062: oberarmknochen1
+    100064: oberarmknochen2
+    100066: oberschenkelknochen1
+    100068: oberschenkelknochen2
+    100070: schulterblattlinks1
+    100072: unterarmknochen3
+    100074: unterarmknochen4
+    100076: unterschenkelnochen2
+    100078: unterschenkelnochen3
+    100080: wirbelsaeule
+    400000: boneshuefte1
+    400002: boneskopf
+    400004: chestthirdtry2
+    400006: fuss1
+    400008: fuss2
+    400010: //RootNode
+    400012: jt_beinansatzLinks
+    400014: jt_beinansatzRechts
+    400016: jt_brustkorb
+    400018: jt_ellbogenLinks
+    400020: jt_ellbogenRechts
+    400022: jt_hals
+    400024: jt_handgelenkLinks
+    400026: jt_handgelenkRechts
+    400028: jt_huefteOben
+    400030: jt_huefteUnten
+    400032: jt_knieLinks
+    400034: jt_knieRechts
+    400036: jt_knoechelLinks
+    400038: jt_knoechelRechts
+    400040: jt_kopfOben
+    400042: jt_kopfUnten
+    400044: jt_oberarmLinks
+    400046: jt_oberarmRechts
+    400048: jt_oberschenkelLinks
+    400050: jt_oberschenkelRechts
+    400052: jt_schulterLinks
+    400054: jt_schulterRechts
+    400056: jt_wirbelsaeule
+    400058: jt_zehenLinks
+    400060: jt_zehenRechts
+    400062: oberarmknochen1
+    400064: oberarmknochen2
+    400066: oberschenkelknochen1
+    400068: oberschenkelknochen2
+    400070: schulterblattlinks1
+    400072: unterarmknochen3
+    400074: unterarmknochen4
+    400076: unterschenkelnochen2
+    400078: unterschenkelnochen3
+    400080: wirbelsaeule
+    4300000: boneskopf
+    4300002: schulterblattlinks1
+    4300004: oberschenkelknochen1
+    4300006: unterschenkelnochen2
+    4300008: fuss1
+    4300010: fuss2
+    4300012: wirbelsaeule
+    4300014: oberschenkelknochen2
+    4300016: oberarmknochen2
+    4300018: oberarmknochen1
+    4300020: unterarmknochen3
+    4300022: unterarmknochen4
+    4300024: unterschenkelnochen3
+    4300026: boneshuefte1
+    4300028: chestthirdtry2
+    7400000: Walk
+    7400002: Run
+    7400004: Idle
+    7400006: Falling
+    7400008: MidAir
+    7400010: JumpUp
+    7400012: TakeOffHead
+    7400014: HammerHit
+    9500000: //RootNode
+    13700000: boneshuefte1
+    13700002: boneskopf
+    13700004: chestthirdtry2
+    13700006: fuss1
+    13700008: fuss2
+    13700010: oberarmknochen1
+    13700012: oberarmknochen2
+    13700014: oberschenkelknochen1
+    13700016: oberschenkelknochen2
+    13700018: schulterblattlinks1
+    13700020: unterarmknochen3
+    13700022: unterarmknochen4
+    13700024: unterschenkelnochen2
+    13700026: unterschenkelnochen3
+    13700028: wirbelsaeule
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boneshuefte1
+        weight: 1
+      - path: boneskopf
+        weight: 1
+      - path: chestthirdtry2
+        weight: 1
+      - path: fuss1
+        weight: 1
+      - path: fuss2
+        weight: 1
+      - path: jt_wirbelsaeule
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten/jt_kopfOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks/jt_handgelenkLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts/jt_handgelenkRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks/jt_zehenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts/jt_zehenRechts
+        weight: 1
+      - path: oberarmknochen1
+        weight: 1
+      - path: oberarmknochen2
+        weight: 1
+      - path: oberschenkelknochen1
+        weight: 1
+      - path: oberschenkelknochen2
+        weight: 1
+      - path: schulterblattlinks1
+        weight: 1
+      - path: unterarmknochen3
+        weight: 1
+      - path: unterarmknochen4
+        weight: 1
+      - path: unterschenkelnochen2
+        weight: 1
+      - path: unterschenkelnochen3
+        weight: 1
+      - path: wirbelsaeule
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 36
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boneshuefte1
+        weight: 1
+      - path: boneskopf
+        weight: 1
+      - path: chestthirdtry2
+        weight: 1
+      - path: fuss1
+        weight: 1
+      - path: fuss2
+        weight: 1
+      - path: jt_wirbelsaeule
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten/jt_kopfOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks/jt_handgelenkLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts/jt_handgelenkRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks/jt_zehenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts/jt_zehenRechts
+        weight: 1
+      - path: oberarmknochen1
+        weight: 1
+      - path: oberarmknochen2
+        weight: 1
+      - path: oberschenkelknochen1
+        weight: 1
+      - path: oberschenkelknochen2
+        weight: 1
+      - path: schulterblattlinks1
+        weight: 1
+      - path: unterarmknochen3
+        weight: 1
+      - path: unterarmknochen4
+        weight: 1
+      - path: unterschenkelnochen2
+        weight: 1
+      - path: unterschenkelnochen3
+        weight: 1
+      - path: wirbelsaeule
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 348
+      lastFrame: 405
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boneshuefte1
+        weight: 1
+      - path: boneskopf
+        weight: 1
+      - path: chestthirdtry2
+        weight: 1
+      - path: fuss1
+        weight: 1
+      - path: fuss2
+        weight: 1
+      - path: jt_wirbelsaeule
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten/jt_kopfOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks/jt_handgelenkLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts/jt_handgelenkRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks/jt_zehenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts/jt_zehenRechts
+        weight: 1
+      - path: oberarmknochen1
+        weight: 1
+      - path: oberarmknochen2
+        weight: 1
+      - path: oberschenkelknochen1
+        weight: 1
+      - path: oberschenkelknochen2
+        weight: 1
+      - path: schulterblattlinks1
+        weight: 1
+      - path: unterarmknochen3
+        weight: 1
+      - path: unterarmknochen4
+        weight: 1
+      - path: unterschenkelnochen2
+        weight: 1
+      - path: unterschenkelnochen3
+        weight: 1
+      - path: wirbelsaeule
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Falling
+      takeName: Take 001
+      firstFrame: 84
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boneshuefte1
+        weight: 1
+      - path: boneskopf
+        weight: 1
+      - path: chestthirdtry2
+        weight: 1
+      - path: fuss1
+        weight: 1
+      - path: fuss2
+        weight: 1
+      - path: jt_wirbelsaeule
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten/jt_kopfOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks/jt_handgelenkLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts/jt_handgelenkRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks/jt_zehenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts/jt_zehenRechts
+        weight: 1
+      - path: oberarmknochen1
+        weight: 1
+      - path: oberarmknochen2
+        weight: 1
+      - path: oberschenkelknochen1
+        weight: 1
+      - path: oberschenkelknochen2
+        weight: 1
+      - path: schulterblattlinks1
+        weight: 1
+      - path: unterarmknochen3
+        weight: 1
+      - path: unterarmknochen4
+        weight: 1
+      - path: unterschenkelnochen2
+        weight: 1
+      - path: unterschenkelnochen3
+        weight: 1
+      - path: wirbelsaeule
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MidAir
+      takeName: Take 001
+      firstFrame: 78
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boneshuefte1
+        weight: 1
+      - path: boneskopf
+        weight: 1
+      - path: chestthirdtry2
+        weight: 1
+      - path: fuss1
+        weight: 1
+      - path: fuss2
+        weight: 1
+      - path: jt_wirbelsaeule
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten/jt_kopfOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks/jt_handgelenkLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts/jt_handgelenkRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks/jt_zehenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts/jt_zehenRechts
+        weight: 1
+      - path: oberarmknochen1
+        weight: 1
+      - path: oberarmknochen2
+        weight: 1
+      - path: oberschenkelknochen1
+        weight: 1
+      - path: oberschenkelknochen2
+        weight: 1
+      - path: schulterblattlinks1
+        weight: 1
+      - path: unterarmknochen3
+        weight: 1
+      - path: unterarmknochen4
+        weight: 1
+      - path: unterschenkelnochen2
+        weight: 1
+      - path: unterschenkelnochen3
+        weight: 1
+      - path: wirbelsaeule
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: JumpUp
+      takeName: Take 001
+      firstFrame: 76
+      lastFrame: 77
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boneshuefte1
+        weight: 1
+      - path: boneskopf
+        weight: 1
+      - path: chestthirdtry2
+        weight: 1
+      - path: fuss1
+        weight: 1
+      - path: fuss2
+        weight: 1
+      - path: jt_wirbelsaeule
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten/jt_kopfOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks/jt_handgelenkLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts/jt_handgelenkRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks/jt_zehenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts/jt_zehenRechts
+        weight: 1
+      - path: oberarmknochen1
+        weight: 1
+      - path: oberarmknochen2
+        weight: 1
+      - path: oberschenkelknochen1
+        weight: 1
+      - path: oberschenkelknochen2
+        weight: 1
+      - path: schulterblattlinks1
+        weight: 1
+      - path: unterarmknochen3
+        weight: 1
+      - path: unterarmknochen4
+        weight: 1
+      - path: unterschenkelnochen2
+        weight: 1
+      - path: unterschenkelnochen3
+        weight: 1
+      - path: wirbelsaeule
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: TakeOffHead
+      takeName: Take 001
+      firstFrame: 110
+      lastFrame: 163
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boneshuefte1
+        weight: 1
+      - path: boneskopf
+        weight: 1
+      - path: chestthirdtry2
+        weight: 1
+      - path: fuss1
+        weight: 1
+      - path: fuss2
+        weight: 1
+      - path: jt_wirbelsaeule
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten/jt_kopfOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks/jt_handgelenkLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts/jt_handgelenkRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks/jt_zehenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts/jt_zehenRechts
+        weight: 1
+      - path: oberarmknochen1
+        weight: 1
+      - path: oberarmknochen2
+        weight: 1
+      - path: oberschenkelknochen1
+        weight: 1
+      - path: oberschenkelknochen2
+        weight: 1
+      - path: schulterblattlinks1
+        weight: 1
+      - path: unterarmknochen3
+        weight: 1
+      - path: unterarmknochen4
+        weight: 1
+      - path: unterschenkelnochen2
+        weight: 1
+      - path: unterschenkelnochen3
+        weight: 1
+      - path: wirbelsaeule
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: HammerHit
+      takeName: Take 001
+      firstFrame: 305
+      lastFrame: 345
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boneshuefte1
+        weight: 1
+      - path: boneskopf
+        weight: 1
+      - path: chestthirdtry2
+        weight: 1
+      - path: fuss1
+        weight: 1
+      - path: fuss2
+        weight: 1
+      - path: jt_wirbelsaeule
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_hals/jt_kopfUnten/jt_kopfOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterLinks/jt_oberarmLinks/jt_ellbogenLinks/jt_handgelenkLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_brustkorb/jt_schulterRechts/jt_oberarmRechts/jt_ellbogenRechts/jt_handgelenkRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzLinks/jt_oberschenkelLinks/jt_knieLinks/jt_knoechelLinks/jt_zehenLinks
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts
+        weight: 1
+      - path: jt_wirbelsaeule/jt_huefteOben/jt_huefteUnten/jt_beinansatzRechts/jt_oberschenkelRechts/jt_knieRechts/jt_knoechelRechts/jt_zehenRechts
+        weight: 1
+      - path: oberarmknochen1
+        weight: 1
+      - path: oberarmknochen2
+        weight: 1
+      - path: oberschenkelknochen1
+        weight: 1
+      - path: oberschenkelknochen2
+        weight: 1
+      - path: schulterblattlinks1
+        weight: 1
+      - path: unterarmknochen3
+        weight: 1
+      - path: unterarmknochen4
+        weight: 1
+      - path: unterschenkelnochen2
+        weight: 1
+      - path: unterschenkelnochen3
+        weight: 1
+      - path: wirbelsaeule
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 39
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: jt_wirbelsaeule
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

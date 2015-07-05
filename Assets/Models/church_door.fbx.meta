@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 8251c10904b5a5c4bb931f8dbf1d6087
+timeCreated: 1435669996
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: back
+    100002: //RootNode
+    100004: church_door_handle
+    100006: churchdoor
+    100008: cross
+    100010: cross1
+    100012: door
+    100014: door1
+    100016: handle2
+    100018: left
+    100020: left 1
+    100022: pSphere1
+    100024: pSphere2
+    100026: pTorus1
+    100028: pTorus3
+    100030: pTorus4
+    100032: pTorus5
+    100034: pTorus6
+    100036: pTorus7
+    100038: right
+    100040: top1
+    400000: back
+    400002: //RootNode
+    400004: church_door_handle
+    400006: churchdoor
+    400008: cross
+    400010: cross1
+    400012: door
+    400014: door1
+    400016: handle2
+    400018: left
+    400020: left 1
+    400022: pSphere1
+    400024: pSphere2
+    400026: pTorus1
+    400028: pTorus3
+    400030: pTorus4
+    400032: pTorus5
+    400034: pTorus6
+    400036: pTorus7
+    400038: right
+    400040: top1
+    2300000: cross
+    2300002: cross1
+    2300004: door
+    2300006: door1
+    2300008: pSphere1
+    2300010: pSphere2
+    2300012: pTorus1
+    2300014: pTorus3
+    2300016: pTorus4
+    2300018: pTorus5
+    2300020: pTorus6
+    2300022: pTorus7
+    3300000: cross
+    3300002: cross1
+    3300004: door
+    3300006: door1
+    3300008: pSphere1
+    3300010: pSphere2
+    3300012: pTorus1
+    3300014: pTorus3
+    3300016: pTorus4
+    3300018: pTorus5
+    3300020: pTorus6
+    3300022: pTorus7
+    4300000: cross
+    4300002: pTorus1
+    4300004: pTorus3
+    4300006: pSphere1
+    4300008: pTorus4
+    4300010: door
+    4300012: pTorus5
+    4300014: pTorus6
+    4300016: pSphere2
+    4300018: pTorus7
+    4300020: cross1
+    4300022: door1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 35
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

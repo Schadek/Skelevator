@@ -1,0 +1,1949 @@
+fileFormatVersion: 2
+guid: eb128f2201442be4abe4ce673246a4fc
+timeCreated: 1434559437
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: back
+    100002: backfooR
+    100004: backfootL
+    100006: bottom
+    100008: dog
+    100010: frontfootL
+    100012: frontfootR
+    100014: hipbone
+    100016: jaw
+    100018: jt_ankleL
+    100020: jt_ankleR
+    100022: jt_bladeL
+    100024: jt_bladeR
+    100026: jt_elbowL
+    100028: jt_elbowR
+    100030: jt_fingerL
+    100032: jt_fingersR
+    100034: jt_footL
+    100036: jt_footR
+    100038: jt_handL
+    100040: jt_handR
+    100042: jt_head
+    100044: jt_hip
+    100046: jt_jaw
+    100048: jt_kneeL
+    100050: jt_kneeR
+    100052: jt_neck
+    100054: jt_shoulderL
+    100056: jt_shoulderR
+    100058: jt_spine
+    100060: jt_tail1
+    100062: jt_tail2
+    100064: jt_thighL
+    100066: jt_thighR
+    100068: jt_toesL
+    100070: jt_toesR
+    100072: jt_vertebrae
+    100074: jt_wristL
+    100076: jt_wristR
+    100078: keybone1
+    100080: left
+    100082: lowerarmL
+    100084: lowerarmR
+    100086: middlefootL
+    100088: middlefootR
+    100090: //RootNode
+    100092: rib12
+    100094: rib13
+    100096: rib14
+    100098: rib15
+    100100: rib1l
+    100102: rib1l1
+    100104: rib2l
+    100106: rib2l1
+    100108: rib3l
+    100110: rib3l1
+    100112: rib4l
+    100114: rib5l
+    100116: rib6l
+    100118: rib7l
+    100120: ribcage
+    100122: ribl
+    100124: ribl1
+    100126: ribsL
+    100128: ribsR
+    100130: shinboneL
+    100132: shinboneR
+    100134: shoulderbladeL
+    100136: shoulderbladeR
+    100138: skull
+    100140: spine
+    100142: thighboneL
+    100144: thighboneR
+    100146: upperarmL
+    100148: upperarmR
+    100150: vertebra1
+    100152: vertebra10
+    100154: vertebra11
+    100156: vertebra12
+    100158: vertebra2
+    100160: vertebra3
+    100162: vertebra4
+    100164: vertebra5
+    100166: vertebra6
+    100168: vertebra7
+    100170: vertebra8
+    100172: vertebra9
+    400000: back
+    400002: backfooR
+    400004: backfootL
+    400006: bottom
+    400008: dog
+    400010: frontfootL
+    400012: frontfootR
+    400014: hipbone
+    400016: jaw
+    400018: jt_ankleL
+    400020: jt_ankleR
+    400022: jt_bladeL
+    400024: jt_bladeR
+    400026: jt_elbowL
+    400028: jt_elbowR
+    400030: jt_fingerL
+    400032: jt_fingersR
+    400034: jt_footL
+    400036: jt_footR
+    400038: jt_handL
+    400040: jt_handR
+    400042: jt_head
+    400044: jt_hip
+    400046: jt_jaw
+    400048: jt_kneeL
+    400050: jt_kneeR
+    400052: jt_neck
+    400054: jt_shoulderL
+    400056: jt_shoulderR
+    400058: jt_spine
+    400060: jt_tail1
+    400062: jt_tail2
+    400064: jt_thighL
+    400066: jt_thighR
+    400068: jt_toesL
+    400070: jt_toesR
+    400072: jt_vertebrae
+    400074: jt_wristL
+    400076: jt_wristR
+    400078: keybone1
+    400080: left
+    400082: lowerarmL
+    400084: lowerarmR
+    400086: middlefootL
+    400088: middlefootR
+    400090: //RootNode
+    400092: rib12
+    400094: rib13
+    400096: rib14
+    400098: rib15
+    400100: rib1l
+    400102: rib1l1
+    400104: rib2l
+    400106: rib2l1
+    400108: rib3l
+    400110: rib3l1
+    400112: rib4l
+    400114: rib5l
+    400116: rib6l
+    400118: rib7l
+    400120: ribcage
+    400122: ribl
+    400124: ribl1
+    400126: ribsL
+    400128: ribsR
+    400130: shinboneL
+    400132: shinboneR
+    400134: shoulderbladeL
+    400136: shoulderbladeR
+    400138: skull
+    400140: spine
+    400142: thighboneL
+    400144: thighboneR
+    400146: upperarmL
+    400148: upperarmR
+    400150: vertebra1
+    400152: vertebra10
+    400154: vertebra11
+    400156: vertebra12
+    400158: vertebra2
+    400160: vertebra3
+    400162: vertebra4
+    400164: vertebra5
+    400166: vertebra6
+    400168: vertebra7
+    400170: vertebra8
+    400172: vertebra9
+    4300000: skull
+    4300002: jaw
+    4300004: vertebra1
+    4300006: vertebra2
+    4300008: vertebra3
+    4300010: vertebra4
+    4300012: vertebra5
+    4300014: vertebra6
+    4300016: vertebra7
+    4300018: vertebra8
+    4300020: vertebra9
+    4300022: vertebra10
+    4300024: vertebra11
+    4300026: vertebra12
+    4300028: rib3l1
+    4300030: rib2l1
+    4300032: rib1l1
+    4300034: ribl1
+    4300036: rib12
+    4300038: rib13
+    4300040: rib14
+    4300042: rib15
+    4300044: ribl
+    4300046: rib1l
+    4300048: rib2l
+    4300050: rib3l
+    4300052: rib4l
+    4300054: rib5l
+    4300056: rib6l
+    4300058: rib7l
+    4300060: keybone1
+    4300062: shoulderbladeR
+    4300064: upperarmR
+    4300066: lowerarmR
+    4300068: middlefootR
+    4300070: frontfootR
+    4300072: shoulderbladeL
+    4300074: upperarmL
+    4300076: lowerarmL
+    4300078: middlefootL
+    4300080: frontfootL
+    4300082: hipbone
+    4300084: thighboneR
+    4300086: shinboneR
+    4300088: backfooR
+    4300090: thighboneL
+    4300092: shinboneL
+    4300094: backfootL
+    7400000: Walk
+    7400002: Run
+    7400004: Yawn
+    7400006: JumpUp
+    7400008: Falling
+    7400010: MidAir
+    7400012: Scratch
+    7400014: Take
+    7400016: Take 001
+    9500000: //RootNode
+    13700000: backfooR
+    13700002: backfootL
+    13700004: frontfootL
+    13700006: frontfootR
+    13700008: hipbone
+    13700010: jaw
+    13700012: keybone1
+    13700014: lowerarmL
+    13700016: lowerarmR
+    13700018: middlefootL
+    13700020: middlefootR
+    13700022: rib12
+    13700024: rib13
+    13700026: rib14
+    13700028: rib15
+    13700030: rib1l
+    13700032: rib1l1
+    13700034: rib2l
+    13700036: rib2l1
+    13700038: rib3l
+    13700040: rib3l1
+    13700042: rib4l
+    13700044: rib5l
+    13700046: rib6l
+    13700048: rib7l
+    13700050: ribl
+    13700052: ribl1
+    13700054: shinboneL
+    13700056: shinboneR
+    13700058: shoulderbladeL
+    13700060: shoulderbladeR
+    13700062: skull
+    13700064: thighboneL
+    13700066: thighboneR
+    13700068: upperarmL
+    13700070: upperarmR
+    13700072: vertebra1
+    13700074: vertebra10
+    13700076: vertebra11
+    13700078: vertebra12
+    13700080: vertebra2
+    13700082: vertebra3
+    13700084: vertebra4
+    13700086: vertebra5
+    13700088: vertebra6
+    13700090: vertebra7
+    13700092: vertebra8
+    13700094: vertebra9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: dog
+        weight: 1
+      - path: dog/backfooR
+        weight: 1
+      - path: dog/backfootL
+        weight: 1
+      - path: dog/frontfootL
+        weight: 1
+      - path: dog/frontfootR
+        weight: 1
+      - path: dog/hipbone
+        weight: 1
+      - path: dog/jaw
+        weight: 1
+      - path: dog/keybone1
+        weight: 1
+      - path: dog/lowerarmL
+        weight: 1
+      - path: dog/lowerarmR
+        weight: 1
+      - path: dog/middlefootL
+        weight: 1
+      - path: dog/middlefootR
+        weight: 1
+      - path: dog/ribcage
+        weight: 1
+      - path: dog/ribcage/ribsL
+        weight: 1
+      - path: dog/ribcage/ribsL/rib1l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib2l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib3l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib4l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib5l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib6l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib7l
+        weight: 1
+      - path: dog/ribcage/ribsL/ribl
+        weight: 1
+      - path: dog/ribcage/ribsR
+        weight: 1
+      - path: dog/ribcage/ribsR/rib1l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib2l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib3l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib12
+        weight: 1
+      - path: dog/ribcage/ribsR/rib13
+        weight: 1
+      - path: dog/ribcage/ribsR/rib14
+        weight: 1
+      - path: dog/ribcage/ribsR/rib15
+        weight: 1
+      - path: dog/ribcage/ribsR/ribl1
+        weight: 1
+      - path: dog/shinboneL
+        weight: 1
+      - path: dog/shinboneR
+        weight: 1
+      - path: dog/shoulderbladeL
+        weight: 1
+      - path: dog/shoulderbladeR
+        weight: 1
+      - path: dog/skull
+        weight: 1
+      - path: dog/spine
+        weight: 1
+      - path: dog/spine/vertebra1
+        weight: 1
+      - path: dog/spine/vertebra2
+        weight: 1
+      - path: dog/spine/vertebra3
+        weight: 1
+      - path: dog/spine/vertebra4
+        weight: 1
+      - path: dog/spine/vertebra5
+        weight: 1
+      - path: dog/spine/vertebra6
+        weight: 1
+      - path: dog/spine/vertebra7
+        weight: 1
+      - path: dog/spine/vertebra8
+        weight: 1
+      - path: dog/spine/vertebra9
+        weight: 1
+      - path: dog/spine/vertebra10
+        weight: 1
+      - path: dog/spine/vertebra11
+        weight: 1
+      - path: dog/spine/vertebra12
+        weight: 1
+      - path: dog/thighboneL
+        weight: 1
+      - path: dog/thighboneR
+        weight: 1
+      - path: dog/upperarmL
+        weight: 1
+      - path: dog/upperarmR
+        weight: 1
+      - path: jt_hip
+        weight: 1
+      - path: jt_hip/jt_spine
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL/jt_fingerL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR/jt_fingersR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head/jt_jaw
+        weight: 1
+      - path: jt_hip/jt_tail1
+        weight: 1
+      - path: jt_hip/jt_tail1/jt_tail2
+        weight: 1
+      - path: jt_hip/jt_thighL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL/jt_toesL
+        weight: 1
+      - path: jt_hip/jt_thighR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR/jt_toesR
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 64
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: dog
+        weight: 1
+      - path: dog/backfooR
+        weight: 1
+      - path: dog/backfootL
+        weight: 1
+      - path: dog/frontfootL
+        weight: 1
+      - path: dog/frontfootR
+        weight: 1
+      - path: dog/hipbone
+        weight: 1
+      - path: dog/jaw
+        weight: 1
+      - path: dog/keybone1
+        weight: 1
+      - path: dog/lowerarmL
+        weight: 1
+      - path: dog/lowerarmR
+        weight: 1
+      - path: dog/middlefootL
+        weight: 1
+      - path: dog/middlefootR
+        weight: 1
+      - path: dog/ribcage
+        weight: 1
+      - path: dog/ribcage/ribsL
+        weight: 1
+      - path: dog/ribcage/ribsL/rib1l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib2l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib3l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib4l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib5l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib6l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib7l
+        weight: 1
+      - path: dog/ribcage/ribsL/ribl
+        weight: 1
+      - path: dog/ribcage/ribsR
+        weight: 1
+      - path: dog/ribcage/ribsR/rib1l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib2l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib3l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib12
+        weight: 1
+      - path: dog/ribcage/ribsR/rib13
+        weight: 1
+      - path: dog/ribcage/ribsR/rib14
+        weight: 1
+      - path: dog/ribcage/ribsR/rib15
+        weight: 1
+      - path: dog/ribcage/ribsR/ribl1
+        weight: 1
+      - path: dog/shinboneL
+        weight: 1
+      - path: dog/shinboneR
+        weight: 1
+      - path: dog/shoulderbladeL
+        weight: 1
+      - path: dog/shoulderbladeR
+        weight: 1
+      - path: dog/skull
+        weight: 1
+      - path: dog/spine
+        weight: 1
+      - path: dog/spine/vertebra1
+        weight: 1
+      - path: dog/spine/vertebra2
+        weight: 1
+      - path: dog/spine/vertebra3
+        weight: 1
+      - path: dog/spine/vertebra4
+        weight: 1
+      - path: dog/spine/vertebra5
+        weight: 1
+      - path: dog/spine/vertebra6
+        weight: 1
+      - path: dog/spine/vertebra7
+        weight: 1
+      - path: dog/spine/vertebra8
+        weight: 1
+      - path: dog/spine/vertebra9
+        weight: 1
+      - path: dog/spine/vertebra10
+        weight: 1
+      - path: dog/spine/vertebra11
+        weight: 1
+      - path: dog/spine/vertebra12
+        weight: 1
+      - path: dog/thighboneL
+        weight: 1
+      - path: dog/thighboneR
+        weight: 1
+      - path: dog/upperarmL
+        weight: 1
+      - path: dog/upperarmR
+        weight: 1
+      - path: jt_hip
+        weight: 1
+      - path: jt_hip/jt_spine
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL/jt_fingerL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR/jt_fingersR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head/jt_jaw
+        weight: 1
+      - path: jt_hip/jt_tail1
+        weight: 1
+      - path: jt_hip/jt_tail1/jt_tail2
+        weight: 1
+      - path: jt_hip/jt_thighL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL/jt_toesL
+        weight: 1
+      - path: jt_hip/jt_thighR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR/jt_toesR
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Yawn
+      takeName: Take 001
+      firstFrame: 170
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: dog
+        weight: 1
+      - path: dog/backfooR
+        weight: 1
+      - path: dog/backfootL
+        weight: 1
+      - path: dog/frontfootL
+        weight: 1
+      - path: dog/frontfootR
+        weight: 1
+      - path: dog/hipbone
+        weight: 1
+      - path: dog/jaw
+        weight: 1
+      - path: dog/keybone1
+        weight: 1
+      - path: dog/lowerarmL
+        weight: 1
+      - path: dog/lowerarmR
+        weight: 1
+      - path: dog/middlefootL
+        weight: 1
+      - path: dog/middlefootR
+        weight: 1
+      - path: dog/ribcage
+        weight: 1
+      - path: dog/ribcage/ribsL
+        weight: 1
+      - path: dog/ribcage/ribsL/rib1l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib2l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib3l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib4l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib5l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib6l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib7l
+        weight: 1
+      - path: dog/ribcage/ribsL/ribl
+        weight: 1
+      - path: dog/ribcage/ribsR
+        weight: 1
+      - path: dog/ribcage/ribsR/rib1l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib2l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib3l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib12
+        weight: 1
+      - path: dog/ribcage/ribsR/rib13
+        weight: 1
+      - path: dog/ribcage/ribsR/rib14
+        weight: 1
+      - path: dog/ribcage/ribsR/rib15
+        weight: 1
+      - path: dog/ribcage/ribsR/ribl1
+        weight: 1
+      - path: dog/shinboneL
+        weight: 1
+      - path: dog/shinboneR
+        weight: 1
+      - path: dog/shoulderbladeL
+        weight: 1
+      - path: dog/shoulderbladeR
+        weight: 1
+      - path: dog/skull
+        weight: 1
+      - path: dog/spine
+        weight: 1
+      - path: dog/spine/vertebra1
+        weight: 1
+      - path: dog/spine/vertebra2
+        weight: 1
+      - path: dog/spine/vertebra3
+        weight: 1
+      - path: dog/spine/vertebra4
+        weight: 1
+      - path: dog/spine/vertebra5
+        weight: 1
+      - path: dog/spine/vertebra6
+        weight: 1
+      - path: dog/spine/vertebra7
+        weight: 1
+      - path: dog/spine/vertebra8
+        weight: 1
+      - path: dog/spine/vertebra9
+        weight: 1
+      - path: dog/spine/vertebra10
+        weight: 1
+      - path: dog/spine/vertebra11
+        weight: 1
+      - path: dog/spine/vertebra12
+        weight: 1
+      - path: dog/thighboneL
+        weight: 1
+      - path: dog/thighboneR
+        weight: 1
+      - path: dog/upperarmL
+        weight: 1
+      - path: dog/upperarmR
+        weight: 1
+      - path: jt_hip
+        weight: 1
+      - path: jt_hip/jt_spine
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL/jt_fingerL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR/jt_fingersR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head/jt_jaw
+        weight: 1
+      - path: jt_hip/jt_tail1
+        weight: 1
+      - path: jt_hip/jt_tail1/jt_tail2
+        weight: 1
+      - path: jt_hip/jt_thighL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL/jt_toesL
+        weight: 1
+      - path: jt_hip/jt_thighR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR/jt_toesR
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: JumpUp
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 121
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 1.14999998
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: dog
+        weight: 1
+      - path: dog/backfooR
+        weight: 1
+      - path: dog/backfootL
+        weight: 1
+      - path: dog/frontfootL
+        weight: 1
+      - path: dog/frontfootR
+        weight: 1
+      - path: dog/hipbone
+        weight: 1
+      - path: dog/jaw
+        weight: 1
+      - path: dog/keybone1
+        weight: 1
+      - path: dog/lowerarmL
+        weight: 1
+      - path: dog/lowerarmR
+        weight: 1
+      - path: dog/middlefootL
+        weight: 1
+      - path: dog/middlefootR
+        weight: 1
+      - path: dog/ribcage
+        weight: 1
+      - path: dog/ribcage/ribsL
+        weight: 1
+      - path: dog/ribcage/ribsL/rib1l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib2l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib3l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib4l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib5l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib6l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib7l
+        weight: 1
+      - path: dog/ribcage/ribsL/ribl
+        weight: 1
+      - path: dog/ribcage/ribsR
+        weight: 1
+      - path: dog/ribcage/ribsR/rib1l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib2l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib3l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib12
+        weight: 1
+      - path: dog/ribcage/ribsR/rib13
+        weight: 1
+      - path: dog/ribcage/ribsR/rib14
+        weight: 1
+      - path: dog/ribcage/ribsR/rib15
+        weight: 1
+      - path: dog/ribcage/ribsR/ribl1
+        weight: 1
+      - path: dog/shinboneL
+        weight: 1
+      - path: dog/shinboneR
+        weight: 1
+      - path: dog/shoulderbladeL
+        weight: 1
+      - path: dog/shoulderbladeR
+        weight: 1
+      - path: dog/skull
+        weight: 1
+      - path: dog/spine
+        weight: 1
+      - path: dog/spine/vertebra1
+        weight: 1
+      - path: dog/spine/vertebra2
+        weight: 1
+      - path: dog/spine/vertebra3
+        weight: 1
+      - path: dog/spine/vertebra4
+        weight: 1
+      - path: dog/spine/vertebra5
+        weight: 1
+      - path: dog/spine/vertebra6
+        weight: 1
+      - path: dog/spine/vertebra7
+        weight: 1
+      - path: dog/spine/vertebra8
+        weight: 1
+      - path: dog/spine/vertebra9
+        weight: 1
+      - path: dog/spine/vertebra10
+        weight: 1
+      - path: dog/spine/vertebra11
+        weight: 1
+      - path: dog/spine/vertebra12
+        weight: 1
+      - path: dog/thighboneL
+        weight: 1
+      - path: dog/thighboneR
+        weight: 1
+      - path: dog/upperarmL
+        weight: 1
+      - path: dog/upperarmR
+        weight: 1
+      - path: jt_hip
+        weight: 1
+      - path: jt_hip/jt_spine
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL/jt_fingerL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR/jt_fingersR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head/jt_jaw
+        weight: 1
+      - path: jt_hip/jt_tail1
+        weight: 1
+      - path: jt_hip/jt_tail1/jt_tail2
+        weight: 1
+      - path: jt_hip/jt_thighL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL/jt_toesL
+        weight: 1
+      - path: jt_hip/jt_thighR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR/jt_toesR
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Falling
+      takeName: Take 001
+      firstFrame: 142
+      lastFrame: 146
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: .699999988
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: dog
+        weight: 1
+      - path: dog/backfooR
+        weight: 1
+      - path: dog/backfootL
+        weight: 1
+      - path: dog/frontfootL
+        weight: 1
+      - path: dog/frontfootR
+        weight: 1
+      - path: dog/hipbone
+        weight: 1
+      - path: dog/jaw
+        weight: 1
+      - path: dog/keybone1
+        weight: 1
+      - path: dog/lowerarmL
+        weight: 1
+      - path: dog/lowerarmR
+        weight: 1
+      - path: dog/middlefootL
+        weight: 1
+      - path: dog/middlefootR
+        weight: 1
+      - path: dog/ribcage
+        weight: 1
+      - path: dog/ribcage/ribsL
+        weight: 1
+      - path: dog/ribcage/ribsL/rib1l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib2l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib3l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib4l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib5l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib6l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib7l
+        weight: 1
+      - path: dog/ribcage/ribsL/ribl
+        weight: 1
+      - path: dog/ribcage/ribsR
+        weight: 1
+      - path: dog/ribcage/ribsR/rib1l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib2l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib3l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib12
+        weight: 1
+      - path: dog/ribcage/ribsR/rib13
+        weight: 1
+      - path: dog/ribcage/ribsR/rib14
+        weight: 1
+      - path: dog/ribcage/ribsR/rib15
+        weight: 1
+      - path: dog/ribcage/ribsR/ribl1
+        weight: 1
+      - path: dog/shinboneL
+        weight: 1
+      - path: dog/shinboneR
+        weight: 1
+      - path: dog/shoulderbladeL
+        weight: 1
+      - path: dog/shoulderbladeR
+        weight: 1
+      - path: dog/skull
+        weight: 1
+      - path: dog/spine
+        weight: 1
+      - path: dog/spine/vertebra1
+        weight: 1
+      - path: dog/spine/vertebra2
+        weight: 1
+      - path: dog/spine/vertebra3
+        weight: 1
+      - path: dog/spine/vertebra4
+        weight: 1
+      - path: dog/spine/vertebra5
+        weight: 1
+      - path: dog/spine/vertebra6
+        weight: 1
+      - path: dog/spine/vertebra7
+        weight: 1
+      - path: dog/spine/vertebra8
+        weight: 1
+      - path: dog/spine/vertebra9
+        weight: 1
+      - path: dog/spine/vertebra10
+        weight: 1
+      - path: dog/spine/vertebra11
+        weight: 1
+      - path: dog/spine/vertebra12
+        weight: 1
+      - path: dog/thighboneL
+        weight: 1
+      - path: dog/thighboneR
+        weight: 1
+      - path: dog/upperarmL
+        weight: 1
+      - path: dog/upperarmR
+        weight: 1
+      - path: jt_hip
+        weight: 1
+      - path: jt_hip/jt_spine
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL/jt_fingerL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR/jt_fingersR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head/jt_jaw
+        weight: 1
+      - path: jt_hip/jt_tail1
+        weight: 1
+      - path: jt_hip/jt_tail1/jt_tail2
+        weight: 1
+      - path: jt_hip/jt_thighL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL/jt_toesL
+        weight: 1
+      - path: jt_hip/jt_thighR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR/jt_toesR
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MidAir
+      takeName: Take 001
+      firstFrame: 125
+      lastFrame: 129
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 1.54999995
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: dog
+        weight: 1
+      - path: dog/backfooR
+        weight: 1
+      - path: dog/backfootL
+        weight: 1
+      - path: dog/frontfootL
+        weight: 1
+      - path: dog/frontfootR
+        weight: 1
+      - path: dog/hipbone
+        weight: 1
+      - path: dog/jaw
+        weight: 1
+      - path: dog/keybone1
+        weight: 1
+      - path: dog/lowerarmL
+        weight: 1
+      - path: dog/lowerarmR
+        weight: 1
+      - path: dog/middlefootL
+        weight: 1
+      - path: dog/middlefootR
+        weight: 1
+      - path: dog/ribcage
+        weight: 1
+      - path: dog/ribcage/ribsL
+        weight: 1
+      - path: dog/ribcage/ribsL/rib1l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib2l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib3l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib4l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib5l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib6l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib7l
+        weight: 1
+      - path: dog/ribcage/ribsL/ribl
+        weight: 1
+      - path: dog/ribcage/ribsR
+        weight: 1
+      - path: dog/ribcage/ribsR/rib1l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib2l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib3l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib12
+        weight: 1
+      - path: dog/ribcage/ribsR/rib13
+        weight: 1
+      - path: dog/ribcage/ribsR/rib14
+        weight: 1
+      - path: dog/ribcage/ribsR/rib15
+        weight: 1
+      - path: dog/ribcage/ribsR/ribl1
+        weight: 1
+      - path: dog/shinboneL
+        weight: 1
+      - path: dog/shinboneR
+        weight: 1
+      - path: dog/shoulderbladeL
+        weight: 1
+      - path: dog/shoulderbladeR
+        weight: 1
+      - path: dog/skull
+        weight: 1
+      - path: dog/spine
+        weight: 1
+      - path: dog/spine/vertebra1
+        weight: 1
+      - path: dog/spine/vertebra2
+        weight: 1
+      - path: dog/spine/vertebra3
+        weight: 1
+      - path: dog/spine/vertebra4
+        weight: 1
+      - path: dog/spine/vertebra5
+        weight: 1
+      - path: dog/spine/vertebra6
+        weight: 1
+      - path: dog/spine/vertebra7
+        weight: 1
+      - path: dog/spine/vertebra8
+        weight: 1
+      - path: dog/spine/vertebra9
+        weight: 1
+      - path: dog/spine/vertebra10
+        weight: 1
+      - path: dog/spine/vertebra11
+        weight: 1
+      - path: dog/spine/vertebra12
+        weight: 1
+      - path: dog/thighboneL
+        weight: 1
+      - path: dog/thighboneR
+        weight: 1
+      - path: dog/upperarmL
+        weight: 1
+      - path: dog/upperarmR
+        weight: 1
+      - path: jt_hip
+        weight: 1
+      - path: jt_hip/jt_spine
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL/jt_fingerL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR/jt_fingersR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head/jt_jaw
+        weight: 1
+      - path: jt_hip/jt_tail1
+        weight: 1
+      - path: jt_hip/jt_tail1/jt_tail2
+        weight: 1
+      - path: jt_hip/jt_thighL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL/jt_toesL
+        weight: 1
+      - path: jt_hip/jt_thighR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR/jt_toesR
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Scratch
+      takeName: Take 001
+      firstFrame: 250
+      lastFrame: 353
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: dog
+        weight: 1
+      - path: dog/backfooR
+        weight: 1
+      - path: dog/backfootL
+        weight: 1
+      - path: dog/frontfootL
+        weight: 1
+      - path: dog/frontfootR
+        weight: 1
+      - path: dog/hipbone
+        weight: 1
+      - path: dog/jaw
+        weight: 1
+      - path: dog/keybone1
+        weight: 1
+      - path: dog/lowerarmL
+        weight: 1
+      - path: dog/lowerarmR
+        weight: 1
+      - path: dog/middlefootL
+        weight: 1
+      - path: dog/middlefootR
+        weight: 1
+      - path: dog/ribcage
+        weight: 1
+      - path: dog/ribcage/ribsL
+        weight: 1
+      - path: dog/ribcage/ribsL/rib1l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib2l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib3l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib4l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib5l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib6l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib7l
+        weight: 1
+      - path: dog/ribcage/ribsL/ribl
+        weight: 1
+      - path: dog/ribcage/ribsR
+        weight: 1
+      - path: dog/ribcage/ribsR/rib1l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib2l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib3l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib12
+        weight: 1
+      - path: dog/ribcage/ribsR/rib13
+        weight: 1
+      - path: dog/ribcage/ribsR/rib14
+        weight: 1
+      - path: dog/ribcage/ribsR/rib15
+        weight: 1
+      - path: dog/ribcage/ribsR/ribl1
+        weight: 1
+      - path: dog/shinboneL
+        weight: 1
+      - path: dog/shinboneR
+        weight: 1
+      - path: dog/shoulderbladeL
+        weight: 1
+      - path: dog/shoulderbladeR
+        weight: 1
+      - path: dog/skull
+        weight: 1
+      - path: dog/spine
+        weight: 1
+      - path: dog/spine/vertebra1
+        weight: 1
+      - path: dog/spine/vertebra2
+        weight: 1
+      - path: dog/spine/vertebra3
+        weight: 1
+      - path: dog/spine/vertebra4
+        weight: 1
+      - path: dog/spine/vertebra5
+        weight: 1
+      - path: dog/spine/vertebra6
+        weight: 1
+      - path: dog/spine/vertebra7
+        weight: 1
+      - path: dog/spine/vertebra8
+        weight: 1
+      - path: dog/spine/vertebra9
+        weight: 1
+      - path: dog/spine/vertebra10
+        weight: 1
+      - path: dog/spine/vertebra11
+        weight: 1
+      - path: dog/spine/vertebra12
+        weight: 1
+      - path: dog/thighboneL
+        weight: 1
+      - path: dog/thighboneR
+        weight: 1
+      - path: dog/upperarmL
+        weight: 1
+      - path: dog/upperarmR
+        weight: 1
+      - path: jt_hip
+        weight: 1
+      - path: jt_hip/jt_spine
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL/jt_fingerL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR/jt_fingersR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head/jt_jaw
+        weight: 1
+      - path: jt_hip/jt_tail1
+        weight: 1
+      - path: jt_hip/jt_tail1/jt_tail2
+        weight: 1
+      - path: jt_hip/jt_thighL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL/jt_toesL
+        weight: 1
+      - path: jt_hip/jt_thighR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR/jt_toesR
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Take
+      takeName: Take 001
+      firstFrame: 353
+      lastFrame: 380
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: dog
+        weight: 1
+      - path: dog/backfooR
+        weight: 1
+      - path: dog/backfootL
+        weight: 1
+      - path: dog/frontfootL
+        weight: 1
+      - path: dog/frontfootR
+        weight: 1
+      - path: dog/hipbone
+        weight: 1
+      - path: dog/jaw
+        weight: 1
+      - path: dog/keybone1
+        weight: 1
+      - path: dog/lowerarmL
+        weight: 1
+      - path: dog/lowerarmR
+        weight: 1
+      - path: dog/middlefootL
+        weight: 1
+      - path: dog/middlefootR
+        weight: 1
+      - path: dog/ribcage
+        weight: 1
+      - path: dog/ribcage/ribsL
+        weight: 1
+      - path: dog/ribcage/ribsL/rib1l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib2l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib3l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib4l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib5l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib6l
+        weight: 1
+      - path: dog/ribcage/ribsL/rib7l
+        weight: 1
+      - path: dog/ribcage/ribsL/ribl
+        weight: 1
+      - path: dog/ribcage/ribsR
+        weight: 1
+      - path: dog/ribcage/ribsR/rib1l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib2l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib3l1
+        weight: 1
+      - path: dog/ribcage/ribsR/rib12
+        weight: 1
+      - path: dog/ribcage/ribsR/rib13
+        weight: 1
+      - path: dog/ribcage/ribsR/rib14
+        weight: 1
+      - path: dog/ribcage/ribsR/rib15
+        weight: 1
+      - path: dog/ribcage/ribsR/ribl1
+        weight: 1
+      - path: dog/shinboneL
+        weight: 1
+      - path: dog/shinboneR
+        weight: 1
+      - path: dog/shoulderbladeL
+        weight: 1
+      - path: dog/shoulderbladeR
+        weight: 1
+      - path: dog/skull
+        weight: 1
+      - path: dog/spine
+        weight: 1
+      - path: dog/spine/vertebra1
+        weight: 1
+      - path: dog/spine/vertebra2
+        weight: 1
+      - path: dog/spine/vertebra3
+        weight: 1
+      - path: dog/spine/vertebra4
+        weight: 1
+      - path: dog/spine/vertebra5
+        weight: 1
+      - path: dog/spine/vertebra6
+        weight: 1
+      - path: dog/spine/vertebra7
+        weight: 1
+      - path: dog/spine/vertebra8
+        weight: 1
+      - path: dog/spine/vertebra9
+        weight: 1
+      - path: dog/spine/vertebra10
+        weight: 1
+      - path: dog/spine/vertebra11
+        weight: 1
+      - path: dog/spine/vertebra12
+        weight: 1
+      - path: dog/thighboneL
+        weight: 1
+      - path: dog/thighboneR
+        weight: 1
+      - path: dog/upperarmL
+        weight: 1
+      - path: dog/upperarmR
+        weight: 1
+      - path: jt_hip
+        weight: 1
+      - path: jt_hip/jt_spine
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeL/jt_shoulderL/jt_elbowL/jt_wristL/jt_handL/jt_fingerL
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_bladeR/jt_shoulderR/jt_elbowR/jt_wristR/jt_handR/jt_fingersR
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head
+        weight: 1
+      - path: jt_hip/jt_spine/jt_vertebrae/jt_neck/jt_head/jt_jaw
+        weight: 1
+      - path: jt_hip/jt_tail1
+        weight: 1
+      - path: jt_hip/jt_tail1/jt_tail2
+        weight: 1
+      - path: jt_hip/jt_thighL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL
+        weight: 1
+      - path: jt_hip/jt_thighL/jt_kneeL/jt_ankleL/jt_footL/jt_toesL
+        weight: 1
+      - path: jt_hip/jt_thighR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR
+        weight: 1
+      - path: jt_hip/jt_thighR/jt_kneeR/jt_ankleR/jt_footR/jt_toesR
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 11
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: jt_hip
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

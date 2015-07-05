@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: f5bb212a218a2554cbac0ba37a907eef
+timeCreated: 1435667876
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: HEADS:jaques1
+    100002: //RootNode
+    100004: jaques
+    100006: boneshuefte1
+    100008: fuss1
+    100010: fuss2
+    100012: oberarmknochen1
+    100014: oberarmknochen2
+    100016: oberschenkelknochen1
+    100018: oberschenkelknochen2
+    100020: schulterblattlinks1
+    100022: unterarmknochen3
+    100024: unterarmknochen4
+    100026: unterschenkelnochen2
+    100028: unterschenkelnochen3
+    100030: wirbelsaeule
+    400000: HEADS:jaques1
+    400002: //RootNode
+    400004: jaques
+    400006: boneshuefte1
+    400008: fuss1
+    400010: fuss2
+    400012: oberarmknochen1
+    400014: oberarmknochen2
+    400016: oberschenkelknochen1
+    400018: oberschenkelknochen2
+    400020: schulterblattlinks1
+    400022: unterarmknochen3
+    400024: unterarmknochen4
+    400026: unterschenkelnochen2
+    400028: unterschenkelnochen3
+    400030: wirbelsaeule
+    2300000: HEADS:jaques1
+    2300002: jaques
+    2300004: boneshuefte1
+    2300006: fuss1
+    2300008: fuss2
+    2300010: oberarmknochen1
+    2300012: oberarmknochen2
+    2300014: oberschenkelknochen1
+    2300016: oberschenkelknochen2
+    2300018: schulterblattlinks1
+    2300020: unterarmknochen3
+    2300022: unterarmknochen4
+    2300024: unterschenkelnochen2
+    2300026: unterschenkelnochen3
+    2300028: wirbelsaeule
+    3300000: HEADS:jaques1
+    3300002: jaques
+    3300004: boneshuefte1
+    3300006: fuss1
+    3300008: fuss2
+    3300010: oberarmknochen1
+    3300012: oberarmknochen2
+    3300014: oberschenkelknochen1
+    3300016: oberschenkelknochen2
+    3300018: schulterblattlinks1
+    3300020: unterarmknochen3
+    3300022: unterarmknochen4
+    3300024: unterschenkelnochen2
+    3300026: unterschenkelnochen3
+    3300028: wirbelsaeule
+    4300000: jaques
+    4300002: HEADS:jaques1
+    4300004: schulterblattlinks1
+    4300006: oberschenkelknochen1
+    4300008: unterschenkelnochen2
+    4300010: fuss1
+    4300012: fuss2
+    4300014: wirbelsaeule
+    4300016: oberschenkelknochen2
+    4300018: oberarmknochen2
+    4300020: oberarmknochen1
+    4300022: unterarmknochen3
+    4300024: unterarmknochen4
+    4300026: unterschenkelnochen3
+    4300028: boneshuefte1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 30
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

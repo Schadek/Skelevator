@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 45b4f30462a4adf49b8387dbb49b2e80
+timeCreated: 1435616481
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: back
+    100002: Fackel
+    100004: Fackel_gesamt
+    100006: Fackelbrett
+    100008: Fackelhalter
+    100010: Fackelkopf
+    100012: Fackelring
+    100014: //RootNode
+    100016: left
+    100018: Startscreen_wall
+    400000: back
+    400002: Fackel
+    400004: Fackel_gesamt
+    400006: Fackelbrett
+    400008: Fackelhalter
+    400010: Fackelkopf
+    400012: Fackelring
+    400014: //RootNode
+    400016: left
+    400018: Startscreen_wall
+    2300000: Fackel
+    2300002: Fackelbrett
+    2300004: Fackelhalter
+    2300006: Fackelkopf
+    2300008: Fackelring
+    2300010: Startscreen_wall
+    3300000: Fackel
+    3300002: Fackelbrett
+    3300004: Fackelhalter
+    3300006: Fackelkopf
+    3300008: Fackelring
+    3300010: Startscreen_wall
+    4300000: Startscreen_wall
+    4300002: Fackelbrett
+    4300004: Fackel
+    4300006: Fackelring
+    4300008: Fackelhalter
+    4300010: Fackelkopf
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
